@@ -5,7 +5,9 @@
 Outputs RANDOM People names, US state, counties and addresses, Countries and Company names. Useful for testing Name/Address fields with random data.
 
 ### Installation
-No dependencies required. Just pure Python. Download the repo to your project folder and start using.
+No dependencies required. Just pure Python. Simply [Download](https://github.com/navchandar/Python-Random-Name-Generator/releases/latest) the repo to your project folder and start using for your development/testing purposes. 
+
+Please add your suggestions or ideas [here](https://github.com/navchandar/Python-Random-Name-Generator/issues).
 
 
 ### Usage
