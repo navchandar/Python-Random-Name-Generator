@@ -1,4 +1,5 @@
 AF|Afghanistan
+AX|Aland Islands
 AL|Albania
 DZ|Algeria
 AS|American Samoa
@@ -6,7 +7,7 @@ AD|Andorra
 AO|Angola
 AI|Anguilla
 AQ|Antarctica
-AG|Antigua And Barbuda
+AG|Antigua and Barbuda
 AR|Argentina
 AM|Armenia
 AW|Aruba
@@ -24,7 +25,8 @@ BJ|Benin
 BM|Bermuda
 BT|Bhutan
 BO|Bolivia
-BA|Bosnia And Herzegovina
+BQ|Bonaire, Sint Eustatius and Saba
+BA|Bosnia and Herzegovina
 BW|Botswana
 BV|Bouvet Island
 BR|Brazil
@@ -33,10 +35,10 @@ BN|Brunei Darussalam
 BG|Bulgaria
 BF|Burkina Faso
 BI|Burundi
+CV|Cabo Verde
 KH|Cambodia
 CM|Cameroon
 CA|Canada
-CV|Cape Verde
 KY|Cayman Islands
 CF|Central African Republic
 TD|Chad
@@ -46,26 +48,27 @@ CX|Christmas Island
 CC|Cocos Islands
 CO|Colombia
 KM|Comoros
+CD|Democratic Republic of Congo
 CG|Congo
-CD|The Democratic Republic Of The Congo
 CK|Cook Islands
 CR|Costa Rica
-CI|Cote D ivoire
+CI|Cote d'Ivoire
 HR|Croatia
 CU|Cuba
+CW|Curaçao
 CY|Cyprus
-CZ|Czech Republic
+CZ|Czechia
 DK|Denmark
 DJ|Djibouti
 DM|Dominica
 DO|Dominican Republic
-TP|East Timor
 EC|Ecuador
 EG|Egypt
 SV|El Salvador
 GQ|Equatorial Guinea
 ER|Eritrea
 EE|Estonia
+SZ|Eswatini
 ET|Ethiopia
 FK|Falkland Islands
 FO|Faroe Islands
@@ -87,12 +90,13 @@ GD|Grenada
 GP|Guadeloupe
 GU|Guam
 GT|Guatemala
+GG|Guernsey
 GN|Guinea
-GW|Guinea-bissau
+GW|Guinea-Bissau
 GY|Guyana
 HT|Haiti
-HM|Heard Island And Mcdonald Islands
-VA|Holy See - vatican City State
+HM|Heard Island and McDonald Islands
+VA|Holy See
 HN|Honduras
 HK|Hong Kong
 HU|Hungary
@@ -102,30 +106,31 @@ ID|Indonesia
 IR|Iran
 IQ|Iraq
 IE|Ireland
+IM|Isle of Man
 IL|Israel
 IT|Italy
 JM|Jamaica
 JP|Japan
+JE|Jersey
 JO|Jordan
-KZ|Kazakstan
+KZ|Kazakhstan
 KE|Kenya
 KI|Kiribati
-KP|Democratic People s Republic Of Korea
-KR|Republic Of Korea
-KV|Kosovo
+KP|Democratic People's Republic of Korea
+KR|Republic of Korea
 KW|Kuwait
 KG|Kyrgyzstan
-LA|People s Democratic Republic Lao
+LA|Lao People's Democratic Republic
 LV|Latvia
 LB|Lebanon
 LS|Lesotho
 LR|Liberia
-LY|Libyan Arab Jamahiriya
+LY|Libya
 LI|Liechtenstein
 LT|Lithuania
 LU|Luxembourg
-MO|Macau
-MK|The Former Yugoslav Republic Of Macedonia
+MO|Macao
+MK|Republic of North Macedonia
 MG|Madagascar
 MW|Malawi
 MY|Malaysia
@@ -138,12 +143,12 @@ MR|Mauritania
 MU|Mauritius
 YT|Mayotte
 MX|Mexico
-FM|Federated States Of Micronesia
-MD|Republic Of Moldova
+FM|Micronesia
+MD|Moldova
 MC|Monaco
 MN|Mongolia
-MS|Montserrat
 ME|Montenegro
+MS|Montserrat
 MA|Morocco
 MZ|Mozambique
 MM|Myanmar
@@ -151,7 +156,6 @@ NA|Namibia
 NR|Nauru
 NP|Nepal
 NL|Netherlands
-AN|Netherlands Antilles
 NC|New Caledonia
 NZ|New Zealand
 NI|Nicaragua
@@ -164,7 +168,7 @@ NO|Norway
 OM|Oman
 PK|Pakistan
 PW|Palau
-PS|Palestinian Territory  Occupied
+PS|Palestine
 PA|Panama
 PG|Papua New Guinea
 PY|Paraguay
@@ -179,62 +183,66 @@ RE|Reunion
 RO|Romania
 RU|Russian Federation
 RW|Rwanda
-SH|Saint Helena
-KN|Saint Kitts And Nevis
+BL|Saint Barthelemy
+SH|Saint Helena, Ascension and Tristan da Cunha
+KN|Saint Kitts and Nevis
 LC|Saint Lucia
-PM|Saint Pierre And Miquelon
-VC|Saint Vincent And The Grenadines
+MF|Saint Martin
+PM|Saint Pierre and Miquelon
+VC|Saint Vincent and the Grenadines
 WS|Samoa
 SM|San Marino
-ST|Sao Tome And Principe
+ST|Sao Tome and Principe
 SA|Saudi Arabia
 SN|Senegal
 RS|Serbia
 SC|Seychelles
 SL|Sierra Leone
 SG|Singapore
+SX|Sint Maarten
 SK|Slovakia
 SI|Slovenia
 SB|Solomon Islands
 SO|Somalia
 ZA|South Africa
-GS|South Georgia And The South Sandwich Islands
+GS|South Georgia and the South Sandwich Islands
+SS|South Sudan
 ES|Spain
 LK|Sri Lanka
 SD|Sudan
 SR|Suriname
-SJ|Svalbard And Jan Mayen
-SZ|Swaziland
+SJ|Svalbard and Jan Mayen
 SE|Sweden
 CH|Switzerland
 SY|Syrian Arab Republic
-TW|Taiwan  Province Of China
+TW|Taiwan
 TJ|Tajikistan
-TZ|Tanzania  United Republic Of
+TZ|United Republic of Tanzania
 TH|Thailand
+TL|Timor-Leste
 TG|Togo
 TK|Tokelau
 TO|Tonga
-TT|Trinidad And Tobago
+TT|Trinidad and Tobago
 TN|Tunisia
 TR|Turkey
 TM|Turkmenistan
-TC|Turks And Caicos Islands
+TC|Turks and Caicos Islands
 TV|Tuvalu
 UG|Uganda
 UA|Ukraine
 AE|United Arab Emirates
-GB|United Kingdom
-US|United States
+GB|United Kingdom of Great Britain and Northern Ireland
 UM|United States Minor Outlying Islands
+US|United States of America
 UY|Uruguay
 UZ|Uzbekistan
 VU|Vanuatu
 VE|Venezuela
 VN|Viet Nam
-VG|Virgin Islands  British
-VI|Virgin Islands  U s
-WF|Wallis And Futuna
+VG|Virgin Islands (British)
+VI|Virgin Islands (U.S.)
+WF|Wallis and Futuna
 EH|Western Sahara
 YE|Yemen
 ZM|Zambia
