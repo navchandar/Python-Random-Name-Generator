@@ -1,4 +1,3 @@
-AMAR
 Aaberg
 Aalders
 Aalst
@@ -880,7 +879,7 @@ Amandie
 Amando
 Amandy
 Amann
-Amar
+AMAR
 Amara
 Amaral
 Amaras
@@ -3893,7 +3892,6 @@ Brigitte
 Brill
 Brina
 Brind Amour
-Brind Amour
 Brindell
 Brindle
 Brindley
@@ -6688,6 +6686,7 @@ D Anjou
 D Antonio
 D Aoust
 D Arcy
+D Artagnan
 D Cruz
 D Ingianni
 D Ippolito
@@ -6782,7 +6781,6 @@ Dalli
 Dallis
 Dallman
 Dallon
-Dall oste
 Dalmard
 Daloris
 Dalpe
@@ -6805,7 +6803,6 @@ Damaris
 Damarra
 Dambenieks
 Dambro
-D Ambrosio
 Dame
 Damek
 Damena
@@ -6815,13 +6812,11 @@ Damiani
 Damiano
 Damick
 Damicke
-D Amico
 Damien
 Damita
 Damle
 Damon
 Damour
-D Amour
 Dan
 Dana
 Danae
@@ -6835,7 +6830,6 @@ Danby
 Dancy
 Danczyk
 Dando
-D Andrea
 Dandurand
 Dane
 Danell
@@ -6847,7 +6841,6 @@ Danette
 Daney
 Danforth
 Dang
-D Angelo
 Dangubic
 Dani
 Dania
@@ -6875,7 +6868,6 @@ Danit
 Danita
 Daniyal
 Danjean
-D Anjou
 Danker
 Danko
 Dann
@@ -6890,7 +6882,6 @@ Dannye
 Dans
 Dansereau
 Dante
-D Antonio
 Dantu
 Dantzler
 Danuloff
@@ -6904,7 +6895,6 @@ Danziger
 Dao
 Daoud
 Daoust
-D Aoust
 Daph
 Daphene
 Daphie
@@ -6926,6 +6916,7 @@ Darci
 Darcia
 Darcie
 Darcy
+D Arcy
 Darda
 Dardani
 Darden
@@ -6979,7 +6970,6 @@ Darsey
 Darshi
 Darsie
 Dart
-D Artagnan
 Darton
 Darveau
 Darwen
@@ -7068,7 +7058,6 @@ Db
 Dba
 Dbase
 Dbs
-D Cruz
 Ddene
 DDOCDB
 De
@@ -7710,7 +7699,6 @@ Dine
 Dinerman
 Dinesh
 Dinges
-D Ingianni
 Dingle
 Dingley
 Dingman
@@ -7740,7 +7728,6 @@ Dipierro
 DiPietro
 Dipper
 Dippold
-D Ippolito
 Dira
 Diradmin
 Dirbm
@@ -7777,7 +7764,6 @@ Dix
 Dixie
 Dixil
 Dixon
-D lima
 Dmitri
 DMS
 DMSDB
@@ -7933,7 +7919,6 @@ Donner
 Donni
 Donnie
 Donny
-D Onofrio
 Donoghue
 Donoho
 Donohoe
@@ -7955,7 +7940,6 @@ Doralynn
 Doralynne
 Doran
 Doray
-D Orazio
 Dorca
 Dorcas
 Dorcea
@@ -8204,9 +8188,6 @@ Drye
 Dryer
 Dryfoos
 Drynan
-D Silva
-D Soto
-D Souza
 Du Berger
 Duane
 Duarte
@@ -14398,6 +14379,7 @@ Jahn
 Jahncke
 Jahromi
 Jaime
+Jaime 
 Jaimie
 Jain
 Jaine
@@ -16971,7 +16953,6 @@ Langham
 Langill
 Langille
 Langlais
-L Anglais
 Langley
 Langlois
 Langner
@@ -17334,8 +17315,6 @@ Lecours
 LeCouteur
 LeCroy
 Lectra
-L Ecuyer
-L ecuyer-Demers
 Leda
 Ledah
 Ledamun
@@ -17674,7 +17653,6 @@ Leyla
 Lezley
 Lezlie
 Lhary
-L Heureux
 Li
 Lia
 Liam
@@ -21178,6 +21156,7 @@ Myrtle
 Myrvyn
 Myrwyn
 Mystkowski
+N Dour
 Na
 Naam
 Naaman
@@ -21417,7 +21396,6 @@ Nazario
 Nazarius
 Nazler
 NCC
-N Dour
 Ndububa
 Nea
 Neal
@@ -22023,6 +22001,7 @@ O Doneven
 O Donnell
 O Donoghue
 O Donovan
+O Dowd
 O Driscoll
 O Dwyer
 O Farrell
@@ -22103,13 +22082,12 @@ Obla
 Oblak
 Obola
 Obrecht
-O Brecht
-O Brian
 Obrien
 O Brien
 Obrusniak
 Oby
 Oca
+O Callaghan
 Ocampo
 Ocana
 O Carroll
@@ -22118,7 +22096,6 @@ Ochoa
 Ochs
 Ocker
 Ocko
-O Colmain
 Ocone
 O Connell
 O Conner
@@ -22133,12 +22110,9 @@ Octavla
 Octavus
 Odab
 Odac
-O Dacre
-O Dale
 Odawa
 Odden
 Ode
-O Dea
 Odecki
 Odeen
 Odegaard
@@ -22148,6 +22122,7 @@ Odelet
 Odelia
 Odelinda
 Odell
+O Dell
 Odella
 Odelle
 Oden
@@ -22165,16 +22140,15 @@ Odin
 Odine
 Odlo
 Odo
-O Doherty
 Odom
+O Doneven
 O Donnell
+O Donoghue
 O Donovan
 Odoric
-O Dowd
 Odrick
 O Driscoll
 Odum
-O Dwyer
 Ody
 Odysseus
 Odyssey
@@ -22186,7 +22160,6 @@ Oesterreicher
 Oestreich
 Oetting
 Oey
-O Farrell
 OFCPARM
 OFCPARMS
 Ofelia
@@ -22207,20 +22180,17 @@ Ogg
 Ogilvie
 Ogilvy
 Oglesby
+O Gowan
 O Grady
 Ogren
 Ogrodnik
 Oguz
-O Hagan
 Ohandley
 Ohara
 O Hara
 Ohare
 Ohashi
 Ohaus
-O Hearn
-O Heocha
-O Higgins
 Ohl
 Ohmaru
 Ohmayer
@@ -22237,8 +22207,6 @@ Okajima
 Okamoto
 Oke
 Okechuku
-O Keefe
-O Keeffer
 O Kelly
 Okon
 Okubo
@@ -22260,7 +22228,6 @@ Oldham
 Oldright
 Olds
 Ole
-O Leary
 Oleg
 Oleksyshyn
 Olen
@@ -22330,6 +22297,7 @@ Olympie
 Olympium
 Olynyk
 Om
+O Mahony
 O Malley
 Oman
 Omar
@@ -22343,7 +22311,6 @@ Omland
 Omor
 Omora
 Omura
-O Murchu
 On
 Ona
 Onder
@@ -22352,8 +22319,6 @@ Ondovcik
 Ondrea
 Ondrej
 Oneal
-O Neal
-O Neall
 Oneida
 Oneil
 O Neil
@@ -22415,7 +22380,6 @@ Orders
 Ordog
 Ordway
 Oreffice
-O Regan
 Oreilly
 O Reilly
 Orel
@@ -22534,9 +22498,7 @@ Osburn
 Oscar
 Osei
 Osgood
-O Shaughnessey
-O Shaughnessy
-O Shea
+O Shee
 Osher
 Oshinski
 Oshiro
@@ -22570,7 +22532,6 @@ Ostifichuk
 Ostler
 Ostraw
 Osugi
-O Sullivan
 Oswal
 Oswald
 Oswalt
@@ -28599,7 +28560,6 @@ Szuminski
 Szura
 Szymanski
 Szypulski
- t Hooft
 Ta
 Taam
 Tab
@@ -32407,4 +32367,3 @@ Zybala
 Zylstra
 Zysk
 Zywiel
-
