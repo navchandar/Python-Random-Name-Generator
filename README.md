@@ -1,29 +1,34 @@
 # Python-Random-Name-Generator
-[![Code Climate](https://codeclimate.com/github/navchandar/Python-Random-Name-Generator.svg)](https://codeclimate.com/github/navchandar/Python-Random-Name-Generator) [![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/navchandar/Python-Random-Name-Generator/blob/master/LICENSE)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/navchandar/Python-Random-Name-Generator/issues)
+![workflow-status](https://github.com/navchandar/Python-Random-Name-Generator/actions/workflows/python-actions-test.yml/badge.svg)
+[![Code Climate](https://codeclimate.com/github/navchandar/Python-Random-Name-Generator.svg)](https://codeclimate.com/github/navchandar/Python-Random-Name-Generator) [![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/navchandar/Python-Random-Name-Generator/blob/master/LICENSE) 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/navchandar/Python-Random-Name-Generator/issues)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
 
-Outputs RANDOM People names, US state, counties and addresses, Countries and Company names. Useful for testing Name/Address fields with random data.
+
+ - Outputs RANDOM People names, US state, counties and addresses, Countries and Company names. 
+ - Useful for testing Name/Address fields with random data.
 
 ### Installation
-No dependencies required. Just pure Python. 
+ - No dependencies required. Just pure Python. 
 
-Simply [download](https://github.com/navchandar/Python-Random-Name-Generator/releases/latest) the repo to your project folder and start using for your development/testing purposes. 
+ - Simply [download](https://github.com/navchandar/Python-Random-Name-Generator/releases/latest) the repo to your project folder and start using for your development/testing purposes. 
 
-Please add your suggestions or ideas or data [here](https://github.com/navchandar/Python-Random-Name-Generator/issues).
+ - Please add your suggestions or ideas or data [here](https://github.com/navchandar/Python-Random-Name-Generator/issues).
 
 
 ### Usage
 ```py
-import random-names
-random-names.First()        # outputs random first name
-random-names.Last()         # outputs random last name
-random-names.Full()         # outputs random first and last name
-random-names.Company()      # outputs random company name
-random-names.Address()      # outputs random Address
-random-names.StateCode()    # outputs random US State Code
-random-names.States()       # outputs random US State name
-random-names.Country()      # outputs random Country name
-random-names.Places()       # outputs random Place name
+import random_names
+random_names.First()        # outputs random first name
+random_names.Middle()       # outputs random middle name
+random_names.Last()         # outputs random last name
+random_names.Full()         # outputs random first and last name
+random_names.Company()      # outputs random company name
+random_names.Address()      # outputs random Address
+random_names.StateCode()    # outputs random US State Code
+random_names.States()       # outputs random US State name
+random_names.Country()      # outputs random Country name
+random_names.Places()       # outputs random Place name
 ```
 
 ### Donate
