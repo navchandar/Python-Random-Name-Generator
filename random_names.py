@@ -15,16 +15,16 @@ CompanyNames  = './Names/CompanyNames.txt'
 
 
 def Number(start=0, end=100000):
-    '''
+    """
     Returns random integer between range of numbers
-    '''
+    """
     return random.randint(start, end)
 
 
 def UpperChars(NoOfChars=2):
-    '''
+    """
     UpperChars(NoOfChars=2) Returns 2 random CAPITAL letters.
-    '''
+    """
     _char = ''
     for num in range(NoOfChars):
         _char += random.choice(string.ascii_uppercase)
@@ -102,9 +102,9 @@ def StateCode():
 
 
 def Full():
-    '''
+    """
     Returns a random First Name and Last Name combination
-    '''
+    """
     return ' '.join([First(), Last()])
 
 
