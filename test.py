@@ -5,10 +5,14 @@ import random_names
 class Test(unittest.TestCase):
 
   def test_names(self):
-    for i in range(100):
+    for i in range(500):
       FirstName = random_names.First()
       print(f"{FirstName=}")
       self.assertIsNotNone(FirstName)
+
+      MiddleName = random_names.Middle()
+      print(f"{MiddleName=}")
+      self.assertIsNotNone(MiddleName)
 
       LastName = random_names.Last()
       print(f"{LastName=}")
