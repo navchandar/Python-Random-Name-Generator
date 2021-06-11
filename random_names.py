@@ -50,7 +50,7 @@ def rawCount(filename):
 
 def randomLine(filename):
     num = int(random.uniform(0, rawCount(filename)))
-    with open(filename, 'r') as f:
+    with open(filename, 'r', encoding="UTF-8") as f:
         for i, line in enumerate(f, 1):
             if i == num:
                 break
