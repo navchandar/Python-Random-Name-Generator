@@ -9,11 +9,16 @@
  - Useful for testing Name/Address fields with random data.
 
 ### Installation
- - No dependencies required. Just pure Python. 
+ - No dependencies required. Just pure Python v3+
 
- - Simply [download](https://github.com/navchandar/Python-Random-Name-Generator/releases/latest) the repo to your project folder and start using for your development/testing purposes. 
+ - Simply [download](https://github.com/navchandar/Python-Random-Name-Generator/releases/latest) the repo to your project folder or 
+ ```bash
+ git clone https://github.com/navchandar/Python-Random-Name-Generator.git
+ ```
+ 
+ - And start using for your development/testing purposes. 
 
- - Please add your suggestions or ideas or data [here](https://github.com/navchandar/Python-Random-Name-Generator/issues).
+ - Please add your ideas/suggestions or more test data [here](https://github.com/navchandar/Python-Random-Name-Generator/issues).
 
 
 ### Usage
