@@ -1,4 +1,5 @@
 Abbeville
+Acadia
 Acadia Parish
 Accomack
 Ada
@@ -68,12 +69,14 @@ Armstrong
 Aroostook
 Arroyo
 Arthur
+Ascension
 Ascension Parish
 Ashe
 Ashland
 Ashley
 Ashtabula
 Asotin
+Assumption
 Assumption Parish
 Atascosa
 Atchison
@@ -90,6 +93,7 @@ Aurora
 Austin
 Autauga
 Avery
+Avoyelles
 Avoyelles Parish
 Baca
 Bacon
@@ -132,6 +136,7 @@ Baylor
 Beadle
 Bear Lake
 Beaufort
+Beauregard
 Beauregard Parish
 Beaver
 Beaverhead
@@ -161,6 +166,7 @@ Bertie
 Bethel
 Bexar
 Bibb
+Bienville
 Bienville Parish
 Big Horn
 Big Stone
@@ -187,6 +193,7 @@ Bonneville
 Boone
 Borden
 Bosque
+Bossier
 Bossier Parish
 Botetourt
 Bottineau
@@ -214,7 +221,6 @@ Brevard
 Brewster
 Briscoe
 Bristol
-Bristol
 Bristol Bay
 Broadwater
 Bronx
@@ -231,7 +237,6 @@ Bryan
 Buchanan
 Buckingham
 Bucks
-Buena Vista
 Buena Vista
 Buffalo
 Bullitt
@@ -257,6 +262,7 @@ Caddo
 Caddo Parish
 Caguas
 Calaveras
+Calcasieu
 Calcasieu Parish
 Caldwell
 Caldwell Parish
@@ -291,6 +297,7 @@ Caroline
 Carroll
 Carson
 Carson City
+Carson City city
 Carter
 Carteret
 Carver
@@ -300,6 +307,7 @@ Cass
 Cassia
 Castro
 Caswell
+Catahoula
 Catahoula Parish
 Cataño
 Catawba
@@ -380,6 +388,7 @@ Clearwater
 Cleburne
 Clermont
 Cleveland
+Clifton Forge
 Clinch
 Clinton
 Cloud
@@ -415,6 +424,7 @@ Comal
 Comanche
 Comerío
 Concho
+Concordia
 Concordia Parish
 Conecuh
 Conejos
@@ -437,7 +447,6 @@ Costilla
 Cottle
 Cotton
 Cottonwood
-Covington
 Covington
 Coweta
 Cowley
@@ -489,6 +498,7 @@ Dawes
 Dawson
 Day
 De Baca
+De Soto
 De Soto Parish
 De Witt
 Deaf Smith
@@ -527,6 +537,7 @@ Dixon
 Doddridge
 Dodge
 Dolores
+Dona Ana
 Doña Ana
 Doniphan
 Donley
@@ -552,8 +563,11 @@ Duval
 Dyer
 Eagle
 Early
+East Baton Rouge
 East Baton Rouge Parish
+East Carroll
 East Carroll Parish
+East Feliciana
 East Feliciana Parish
 Eastern District
 Eastland
@@ -592,10 +606,10 @@ Essex
 Estill
 Etowah
 Eureka
+Evangeline
 Evangeline Parish
 Evans
 Fairbanks North Star
-Fairfax
 Fairfax
 Fairfield
 Fajardo
@@ -631,7 +645,6 @@ Forsyth
 Fort Bend
 Foster
 Fountain
-Franklin
 Franklin
 Franklin Parish
 Frederick
@@ -755,7 +768,6 @@ Hamlin
 Hampden
 Hampshire
 Hampton
-Hampton
 Hancock
 Hand
 Hanover
@@ -821,6 +833,7 @@ Honolulu
 Hood
 Hood River
 Hooker
+Hoonah-Angoon
 Hoonah–Angoon
 Hopewell
 Hopkins
@@ -848,7 +861,9 @@ Huntington
 Huron
 Hutchinson
 Hyde
+Iberia
 Iberia Parish
+Iberville
 Iberville Parish
 Ida
 Idaho
@@ -907,7 +922,6 @@ Juab
 Juana Díaz
 Judith Basin
 Juncos
-Juneau
 Juneau
 Juniata
 Kalamazoo
@@ -980,6 +994,7 @@ Lackawanna
 Laclede
 Lafayette
 Lafayette Parish
+Lafourche
 Lafourche Parish
 LaGrange
 Lajas
@@ -1001,7 +1016,7 @@ LaPorte
 Laramie
 Lares
 Larimer
-LaRue
+Larue
 Las Animas
 Las Marías
 Las Piedras
@@ -1034,7 +1049,6 @@ Letcher
 Levy
 Lewis
 Lewis and Clark
-Lexington
 Lexington
 Liberty
 Licking
@@ -1207,6 +1221,7 @@ Montrose
 Moody
 Moore
 Mora
+Morehouse
 Morehouse Parish
 Morgan
 Morovis
@@ -1236,6 +1251,7 @@ Napa
 Naranjito
 Nash
 Nassau
+Natchitoches
 Natchitoches Parish
 Natrona
 Navajo
@@ -1270,7 +1286,6 @@ Nodaway
 Nolan
 Nome
 Norfolk
-Norfolk
 Norman
 North Slope
 Northampton
@@ -1278,16 +1293,15 @@ Northern Islands
 Northumberland
 Northwest Arctic
 Norton
-Norton
 Nottoway
 Nowata
 Noxubee
 Nuckolls
 Nueces
 Nye
+O'Brien
 Oakland
 Obion
-O'Brien
 Ocean
 Oceana
 Ochiltree
@@ -1380,7 +1394,6 @@ Perry
 Pershing
 Person
 Petersburg
-Petersburg
 Petroleum
 Pettis
 Phelps
@@ -1404,6 +1417,7 @@ Pittsburg
 Pittsylvania
 Piute
 Placer
+Plaquemines
 Plaquemines Parish
 Platte
 Pleasants
@@ -1411,6 +1425,7 @@ Plumas
 Plymouth
 Pocahontas
 Poinsett
+Pointe Coupee
 Pointe Coupee Parish
 Polk
 Ponce
@@ -1442,6 +1457,7 @@ Prince Edward
 Prince George
 Prince George's
 Prince of Wales – Hyder
+Prince of Wales-Hyder
 Prince William
 Providence
 Prowers
@@ -1465,6 +1481,7 @@ Randall
 Randolph
 Rankin
 Ransom
+Rapides
 Rapides Parish
 Rappahannock
 Ravalli
@@ -1491,7 +1508,6 @@ Richardson
 Richland
 Richland Parish
 Richmond
-Richmond
 Riley
 Rincón
 Ringgold
@@ -1503,7 +1519,6 @@ Ripley
 Ritchie
 Riverside
 Roane
-Roanoke
 Roanoke
 Roberts
 Robertson
@@ -1548,7 +1563,6 @@ Saint John Island
 Saint Thomas Island
 Saipan
 Salem
-Salem
 Salinas
 Saline
 Salt Lake
@@ -1562,7 +1576,6 @@ San Francisco
 San Germán
 San Jacinto
 San Joaquin
-San Juan
 San Juan
 San Lorenzo
 San Luis Obispo
@@ -1649,6 +1662,7 @@ Solano
 Somerset
 Somervell
 Sonoma
+South Boston
 Southampton
 Southeast Fairbanks
 Spalding
@@ -1657,6 +1671,7 @@ Spencer
 Spink
 Spokane
 Spotsylvania
+St. Bernard
 St. Bernard Parish
 St. Charles
 St. Charles Parish
@@ -1664,19 +1679,25 @@ St. Clair
 St. Croix
 St. Francis
 St. Francois
+St. Helena
 St. Helena Parish
+St. James
 St. James Parish
+St. John the Baptist
 St. John the Baptist Parish
 St. Johns
 St. Joseph
+St. Landry
 St. Landry Parish
 St. Lawrence
 St. Louis
-St. Louis
 St. Lucie
+St. Martin
 St. Martin Parish
+St. Mary
 St. Mary Parish
 St. Mary's
+St. Tammany
 St. Tammany Parish
 Stafford
 Stanislaus
@@ -1707,7 +1728,6 @@ Strafford
 Stutsman
 Sublette
 Suffolk
-Suffolk
 Sullivan
 Sully
 Summers
@@ -1735,6 +1755,7 @@ Tallahatchie
 Tallapoosa
 Tama
 Taney
+Tangipahoa
 Tangipahoa Parish
 Taos
 Tarrant
@@ -1745,7 +1766,9 @@ Tazewell
 Tehama
 Telfair
 Teller
+Tensas
 Tensas Parish
+Terrebonne
 Terrebonne Parish
 Terrell
 Terry
@@ -1820,6 +1843,7 @@ Utah
 Utuado
 Uvalde
 Val Verde
+Valdez-Cordova
 Valencia
 Valley
 Van Buren
@@ -1847,6 +1871,7 @@ Volusia
 Wabash
 Wabasha
 Wabaunsee
+Wade Hampton
 Wadena
 Wagoner
 Wahkiakum
@@ -1892,8 +1917,11 @@ Webster
 Webster Parish
 Weld
 Wells
+West Baton Rouge
 West Baton Rouge Parish
+West Carroll
 West Carroll Parish
+West Feliciana
 West Feliciana Parish
 Westchester
 Western District
@@ -1923,13 +1951,13 @@ Will
 Willacy
 Williams
 Williamsburg
-Williamsburg
 Williamson
 Wilson
 Winchester
 Windham
 Windsor
 Winkler
+Winn
 Winn Parish
 Winnebago
 Winneshiek
@@ -1968,11 +1996,13 @@ Yazoo
 Yell
 Yellow Medicine
 Yellowstone
+Yellowstone National Park
 Yoakum
 Yolo
 York
 Young
 Yuba
+Yukon-Koyukuk
 Yukon–Koyukuk
 Yuma
 Zapata
