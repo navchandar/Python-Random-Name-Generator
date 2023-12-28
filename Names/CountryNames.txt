@@ -130,7 +130,6 @@ LI|Liechtenstein
 LT|Lithuania
 LU|Luxembourg
 MO|Macao
-MK|Republic of North Macedonia
 MG|Madagascar
 MW|Malawi
 MY|Malaysia
@@ -163,6 +162,7 @@ NE|Niger
 NG|Nigeria
 NU|Niue
 NF|Norfolk Island
+MK|North Macedonia
 MP|Northern Mariana Islands
 NO|Norway
 OM|Oman
@@ -225,7 +225,7 @@ TK|Tokelau
 TO|Tonga
 TT|Trinidad and Tobago
 TN|Tunisia
-TR|Turkey
+TR|Turkiye
 TM|Turkmenistan
 TC|Turks and Caicos Islands
 TV|Tuvalu
