@@ -2,16 +2,19 @@
 # -*- coding: utf-8 -*-
 import random
 import string
+from os.path import dirname, join
 
-FirstNames    = './Names/FirstNames.txt'
-MiddleNames   = './Names/MiddleNames.txt'
-LastNames     = './Names/LastNames.txt'
-CountyNames   = './Names/CountyNames.txt'
-PlaceNames    = './Names/PlaceNames.txt'
-StateNames    = './Names/StateNames.txt'
-CountryNames  = './Names/CountryNames.txt'
-CompanyNames  = './Names/CompanyNames.txt'
+script_dir    = dirname(__file__)
+names_dir     = join(script_dir, 'Names')
 
+FirstNames    = join(names_dir, 'FirstNames.txt')
+MiddleNames   = join(names_dir, 'MiddleNames.txt')
+LastNames     = join(names_dir, 'LastNames.txt')
+CountyNames   = join(names_dir, 'CountyNames.txt')
+PlaceNames    = join(names_dir, 'PlaceNames.txt')
+StateNames    = join(names_dir, 'StateNames.txt')
+CountryNames  = join(names_dir, 'CountryNames.txt')
+CompanyNames  = join(names_dir, 'CompanyNames.txt')
 
 
 def Number(start=0, end=100000):
@@ -49,6 +52,9 @@ def rawCount(filename):
 
 
 def randomLine(filename):
+    """
+    Read the given text file and return a random line
+    """
     num = int(random.uniform(0, rawCount(filename)))
     with open(filename, 'r', encoding="UTF-8") as f:
         for i, line in enumerate(f, 1):
