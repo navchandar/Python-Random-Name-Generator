@@ -45,10 +45,9 @@
         <section>
             <h2>Download</h2>
             <ul>
-                <li>
-                    Simply https://github.com/navchandar/Python-Random-Name-Generator/releases/latest
-                    the repo to your project or clone it:
-                </li>
+                <li>Simply <a
+                        href="https://github.com/navchandar/Python-Random-Name-Generator/releases/latest">download</a>
+                    the release to your project or run the command</li>
             </ul>
             <div class="code-container">
                 <pre><code id="git_clone">git clone https://github.com/navchandar/Python-Random-Name-Generator.git</code></pre>
@@ -56,57 +55,110 @@
             </div>
 
             <h2>Installation</h2>
-            <h3>Using <code>requirements.txt</code></h3>
-            <p>Add one of the following lines to your <code>requirements.txt</code> file:</p>
+            <h3>Using <i>requirements.txt</i></h3>
+            <p>Add one of the following lines to your <i>requirements.txt</i> file:</p>
 
             <ul>
-                <li><strong>Latest on <code>main</code> branch:</strong><br>
+                <li><strong>Latest on <i>main</i> branch:</strong><br>
                     <code>random-names @ git+https://github.com/navchandar/Python-Random-Name-Generator@main</code>
                 </li>
-                <li><strong>Specific tag (e.g., <code>V4.0</code>):</strong><br>
+                <li><strong>Specific tag (e.g., <i>V4.0</i>):</strong><br>
                     <code>random-names @ git+https://github.com/navchandar/Python-Random-Name-Generator@V4.0</code>
+                </li>
+                <li>
+                    <p>Then run:</p>
+                    <div class="code-container">
+                        <pre><code id="pip_install">pip install -r requirements.txt</code></pre>
+                        <span class="copy-icon" onclick="copyToClipboard('pip_install')" title="Copy Command">📋</span>
+                    </div>
                 </li>
             </ul>
 
-            <p>Then run:</p>
-            <div class="code-container">
-                <pre><code id="pip_install">pip install -r requirements.txt</code></pre>
-                <span class="copy-icon" onclick="copyToClipboard('pip_install')" title="Copy Command">📋</span>
-            </div>
-
-            <h3>Using Poetry (<code>pyproject.toml</code>)</h3>
-            <p>Add one of the following entries under <code>[tool.poetry.dependencies]</code>:</p>
+            <h3>Using Poetry (<i>pyproject.toml</i>)</h3>
+            <p>Add one of the following entries under <i>[tool.poetry.dependencies]</i> section:</p>
 
             <ul>
-                <li><strong>Latest on <code>main</code> branch:</strong><br>
+                <li><strong>Latest on <i>main</i> branch:</strong><br>
                     <code>random-names = { git = "https://github.com/navchandar/Python-Random-Name-Generator.git", branch = "main" }</code>
                 </li>
                 <li><strong>Specific tag:</strong><br>
                     <code>random-names = { git = "https://github.com/navchandar/Python-Random-Name-Generator.git", tag = "V4.0" }</code>
                 </li>
+
+                <li>
+                    <p>Then run:</p>
+                    <div class="code-container">
+                        <pre><code id="poetry_install">poetry install</code></pre>
+                        <span class="copy-icon" onclick="copyToClipboard('poetry_install')"
+                            title="Copy Command">📋</span>
+                    </div>
+                </li>
             </ul>
-
-            <p>Then run:</p>
-            <div class="code-container">
-                <pre><code id="poetry_install">poetry install</code></pre>
-                <span class="copy-icon" onclick="copyToClipboard('poetry_install')" title="Copy Command">📋</span>
-            </div>
-
         </section>
 
         <section>
             <h2>Usage</h2>
-            <pre><code>import random_names
-random_names.First()        # outputs random first name
-random_names.Middle()       # outputs random middle name
-random_names.Last()         # outputs random last name
-random_names.Full()         # outputs random first and last name
-random_names.Company()      # outputs random company name
-random_names.Address()      # outputs random Address
-random_names.StateCode()    # outputs random US State Code
-random_names.States()       # outputs random US State name
-random_names.Country()      # outputs random Country name
-random_names.Places()       # outputs random Place name</code></pre>
+            <div class="code-container">
+                <pre><code id="code-full"><span class="comment"># outputs random first and last name</span>
+import random_names
+random_names.Full()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-full')" title="Copy Command">📋</span>
+            </div>
+
+            <div class="code-container">
+                <pre><code id="code-first"><span class="comment"># outputs random first name</span>
+random_names.First()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-first')" title="Copy Command">📋</span>
+            </div>
+
+            <div class="code-container">
+                <pre><code id="code-middle"><span class="comment"># outputs random middle name</span>
+random_names.Middle()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-middle')" title="Copy Command">📋</span>
+            </div>
+
+            <div class="code-container">
+                <pre><code id="code-last"><span class="comment"># outputs random last name</span>
+random_names.Last()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-last')" title="Copy Command">📋</span>
+            </div>
+
+            <div class="code-container">
+                <pre><code id="code-company"><span class="comment"># outputs random company name</span>
+random_names.Company()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-company')" title="Copy Command">📋</span>
+            </div>
+
+            <div class="code-container">
+                <pre><code id="code-address"><span class="comment"># outputs random Address</span>
+random_names.Address()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-address')" title="Copy Command">📋</span>
+            </div>
+
+            <div class="code-container">
+                <pre><code id="code-statecode"><span class="comment"># outputs random US State Code</span>
+random_names.StateCode()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-statecode')" title="Copy Command">📋</span>
+            </div>
+
+            <div class="code-container">
+                <pre><code id="code-states"><span class="comment"># outputs random US State name</span>
+random_names.States()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-states')" title="Copy Command">📋</span>
+            </div>
+
+            <div class="code-container">
+                <pre><code id="code-country"><span class="comment"># outputs random Country name</span>
+random_names.Country()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-country')" title="Copy Command">📋</span>
+            </div>
+
+            <div class="code-container">
+                <pre><code id="code-places"><span class="comment"># outputs random Place name</span>
+random_names.Places()</code></pre>
+                <span class="copy-icon" onclick="copyToClipboard('code-places')" title="Copy Command">📋</span>
+            </div>
+
         </section>
     </main>
     <br>
